@@ -1,0 +1,9 @@
+Emre,Aktas,emre545,123,Apart 1,640
+Aysu,Sozen,aysu545,456,Apart 5,550
+Ali,Ayaz,ali545,789,Apart 6,500
+Bugrahan,Turk,bugra545,000,Apart 3,400
+q,q,q,q,Apart 2,300
+x,x,x,x,Apart 3,17330.0
+c,c,c,c,Apart 3,1240.0
+malali,malali,malali,malali,Apart 7,1000000.0
+s,s,s,s,Apart 5,0,

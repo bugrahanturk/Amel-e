@@ -1,0 +1,16 @@
+Chesee Food 7TL
+Milk Drink 4TL
+Coke Drink 5TL
+Book Others 10TL
+Chair OThers 50TL
+Bread Food 3TL
+FlowPot Others 25TL
+Water Drink 4TL
+Ball Others 15TL
+Apple Food 6TL
+Banana Food 7TL
+Orange Food 7TL
+Chocolate Food 2TL
+Kebap Food 15TL
+Pizza Food 15TL
+Coffe Drink 5TL

@@ -1,0 +1,13 @@
+,,,a,Apart 3,1.0
+a,a,a,1,Apart 2,0
+r,r,r,1,Apart 3,605.0
+Buğrahan,Türk,nbt,123,Apart 4,100.0
+Baran,Yücecengiz,barango,123,Apart 3,100000.0
+1,1,1,1,Apart 8,8.0
+asd,asd,asd,asd,Apart 1,50.0
+x,x,x,x,Apart 5,908.0
+z,z,z,z,Apart 4,894.0
+Nevzat,Türk,nt,123,Apart 3,100.0
+h,h,h,h,Apart 1,0
+y,y,y,y,Apart 1,42.0
+sa,sa,sa,sa,Apart 1,102.0,
